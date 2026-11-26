@@ -1,9 +1,10 @@
+
 {
-  "name": "awesome-skills",
+  "name": "apify-skills",
   "version": "1.0.0",
-  "description": "Community collection of Apify agent skills for web scraping, data extraction, and automation",
+  "description": "A collection of Apify skills for web scraping, data extraction, market research, and automation.",
   "author": {
-    "name": "Apify",
+    "name": "Apify Community",
     "email": "support@apify.com"
   },
   "homepage": "https://github.com/apify/awesome-skills",
@@ -13,7 +14,6 @@
     "apify",
     "scraping",
     "automation",
-    "leads",
     "data-extraction"
   ]
 }
